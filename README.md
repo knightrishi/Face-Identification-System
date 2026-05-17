@@ -4,7 +4,7 @@ A criminal identification and facial recognition system designed to assist inves
 
 The system allows operators to store criminal records, split facial images into segments such as eyes, nose, lips, and hair, and reconstruct faces based on eyewitness input. The generated face is then matched against stored criminal databases to identify potential suspects with high accuracy.
 
-Core Features
+##Core Features##
 Criminal record management
 Face image segmentation and reconstruction
 Eyewitness-assisted suspect identification
